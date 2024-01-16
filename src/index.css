@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Noto+Sans&display=swap');
+
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+
+@font-face {
+    font-family: Ceraroundpro;
+    src: url('assets/fonts/Fontspring-DEMO-ceraroundpro-medium.otf') format("opentype");
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
